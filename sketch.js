@@ -8,5 +8,5 @@ function setup() {
   function draw()
   {
     background(0)
-    ellipse(400, 300, mouseX, mouseYs);
+    ellipse(400, 300, mouseX, mouseY);
 }
